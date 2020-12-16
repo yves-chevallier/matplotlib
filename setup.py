@@ -1,6 +1,6 @@
 """
 The matplotlib build options can be modified with a setup.cfg file. See
-setup.cfg.template for more information.
+setup.cfg.template for more information. (changement)
 """
 
 # NOTE: This file must remain Python 2 compatible for the foreseeable future,
